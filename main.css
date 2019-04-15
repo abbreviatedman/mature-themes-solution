@@ -1,0 +1,21 @@
+.app {
+    height: 500px;
+    background: #eeeeee
+}
+
+.toggle-button {
+    color: #212121;
+    background: #e0e0e0;
+    font-size: 1.25em;
+    font-weight: 500;
+    border: 0;
+    margin: 6px;
+    text-transform: uppercase;
+    border-radius: 2px 2px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+}
+
+.dark-theme {
+    background: #333333;
+    color: #eeeeee;
+}
